@@ -1,8 +1,0 @@
-app_identifier("ai.active.activebankwebsdk") # The bundle identifier of your app
-apple_id("parikshit@active.ai") # Your Apple email address
-
-itc_team_id("118273325") # iTunes Connect Team ID
-team_id("S8ALLG76VY") # Developer Portal Team ID
-
-# For more information about the Appfile, see:
-#     https://docs.fastlane.tools/advanced/#appfile
