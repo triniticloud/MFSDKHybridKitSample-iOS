@@ -1,8 +1,8 @@
 # MFSDKHybridKitSample-iOS
 
-[![N|Solid](https://active.ai/wp-content/uploads/2019/03/aai_logo-min.png)](https://github.com/triniticloud/MFSDKNativeKitSample)
+[![N|Solid](https://active.ai/wp-content/uploads/2019/03/aai_logo-min.png)](https://github.com/triniticloud/MFSDKHybridKitSample)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/triniticloud/MFSDKNativeKitSampler)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/triniticloud/MFSDKHybridKitSample)
 
 Morfeus enables financial institutions to deliver consumer services using Intuition and Automation over multiple natural channels of engagement. The Morfeus iOS SDK provides a lightweight conversational / messaging UX interface for users to interact to the Morfeus Platform. The SDK enables rich conversation components to be embedded in existing iOS Mobile Apps.
 
@@ -43,7 +43,7 @@ CocoaPods is a dependency manager for Objective-C, which automates and simplifie
     Save and exit TextEdit
 
 3. Install the pod
-    To integrate 'MorfeusMessagingKit' into your Xcode project, specify the below code in your Podfile
+    To integrate 'MFSDKHybridKit' into your Xcode project, specify the below code in your Podfile
 
     source 'https://github.com/CocoaPods/Specs.git'
     platform :ios, '8.0'
