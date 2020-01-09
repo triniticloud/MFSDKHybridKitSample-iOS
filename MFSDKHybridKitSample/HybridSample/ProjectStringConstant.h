@@ -34,16 +34,16 @@
 #define CLOSE_ALERT_MESSAGE @"close called"
 #define USER_INFO_TEXT_VALIDATION_ERROR @"Customer ID and Session ID can not be empty"
 
-#define SPEECH_API_KEY @"AIzaSyAJ32rx6O208qigvgLXJrxfLd1AvkuwqHk"
+#define SPEECH_API_KEY @"<SPEECH_API_KEY>"
 #define USER_INFO_KEY1 @"CUSTOMER_ID"
 #define USER_INFO_KEY2 @"SESSION_ID"
 
-#define PRE_LOGIN_EXAMPLE_URL @"https://hdfc-dev2.active.ai/morfeuswebsdk/"
-#define PRE_LOGIN_EXAMPLE_BOT_ID @"100hi04102133552"
-#define PRE_LOGIN_BOT_NAME @"hdfcrb"
+#define PRE_LOGIN_EXAMPLE_URL @"<BOT_URL>"
+#define PRE_LOGIN_EXAMPLE_BOT_ID @"<BOT_ID>"
+#define PRE_LOGIN_BOT_NAME @"<BOT_NAME>"
 
 
-#define POST_LOGIN_EXAMPLE_URL @"https://axis-dev.active.ai/morfeuswebsdk/"
-#define POST_LOGIN_EXAMPLE_BOT_ID @"100hi57481487898"
-#define POST_LOGIN_BOT_NAME @"axis"
+#define POST_LOGIN_EXAMPLE_URL @"<BOT_URL>"
+#define POST_LOGIN_EXAMPLE_BOT_ID @"<BOT_ID>"
+#define POST_LOGIN_BOT_NAME @"<BOT_NAME>"
 
