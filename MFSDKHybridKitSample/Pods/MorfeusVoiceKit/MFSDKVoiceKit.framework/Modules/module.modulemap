@@ -1,0 +1,6 @@
+framework module MFSDKVoiceKit {
+  umbrella header "MFSDKVoiceKit.h"
+
+  export *
+  module * { export * }
+}

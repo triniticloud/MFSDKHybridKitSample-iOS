@@ -1,0 +1,6 @@
+framework module MFSDKMessagingKit {
+  umbrella header "MFSDKMessagingKit.h"
+
+  export *
+  module * { export * }
+}

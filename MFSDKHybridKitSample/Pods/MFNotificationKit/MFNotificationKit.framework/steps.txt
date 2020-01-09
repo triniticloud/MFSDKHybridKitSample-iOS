@@ -1,0 +1,2 @@
+pod spec lint MFNotificationKit.podspec --allow-warnings
+pod trunk push MFNotificationKit.podspec --allow-warnings

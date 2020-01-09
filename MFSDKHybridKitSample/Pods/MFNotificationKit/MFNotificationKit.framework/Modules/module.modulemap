@@ -1,0 +1,6 @@
+framework module MFNotificationKit {
+  umbrella header "MFNotificationKit.h"
+
+  export *
+  module * { export * }
+}

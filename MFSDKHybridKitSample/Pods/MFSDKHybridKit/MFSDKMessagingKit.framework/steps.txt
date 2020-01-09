@@ -1,0 +1,2 @@
+pod spec lint MFSDKHybridKit.podspec --allow-warnings
+pod trunk push MFSDKHybridKit.podspec --allow-warnings
